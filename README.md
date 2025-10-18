@@ -142,21 +142,8 @@ cv2.destroyAllWindows()
 
 ### **OUTPUT:**
 
-**Input Image:**
-An image containing multiple objects such as cars, people, or animals.
+<img width="796" height="594" alt="image" src="https://github.com/user-attachments/assets/334c6b22-3ec3-4c0e-ab87-f4b6fa1f5303" />
 
-**Detected Output:**
-Objects detected with:
-
-* Bounding boxes
-* Class labels (e.g., *person, car, dog*)
-* Confidence scores
-
-Example (conceptual):
-
-| Input Image                                                    | Output with Detections                                               |
-| -------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![Input](https://via.placeholder.com/400x250?text=Input+Image) | ![Output](https://via.placeholder.com/400x250?text=Detected+Objects) |
 
 ---
 
