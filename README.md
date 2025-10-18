@@ -154,9 +154,3 @@ It accurately detected and localized multiple objects in real-time with high pre
 This demonstrates YOLO’s efficiency in performing end-to-end object detection suitable for real-world applications such as surveillance, autonomous vehicles, and smart cameras.
 
 ---
-
-
----
-
-Would you like me to tailor this version specifically for **YOLOv5** (since it’s more common in labs and academic demos than YOLOv8)?
-I can rewrite the *program* and *procedure* accordingly.
